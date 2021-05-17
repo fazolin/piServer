@@ -1,0 +1,22 @@
+{
+  "name": "piserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazolin/piServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazolin/piServer/issues"
+  },
+  "homepage": "https://github.com/fazolin/piServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
